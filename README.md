@@ -1,2 +1,3 @@
-# basic numpy and advanced image processing
+# basic numpy
+# advanced image processing
  
